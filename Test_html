@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>Second File</title>
+		<link rel="CSS/JavaScript"></link>
+	</head>
+	<style>
+		.di1{
+			width:200px;
+			height:100px;
+			margin: 50px;
+			background-color:pink;
+		}
+	</style>
+	<body>
+		<h1>First Line</h1>
+		<div class="di1">
+			<p>Hello World!</p>
+		</div>
+	</body>
+</html>
